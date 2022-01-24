@@ -1,14 +1,7 @@
-# **GeekHub X | RoR | Collective Graduation Project | Med Helper**
-
-## Production: https://medhelper.sytes.net/
-
 ## Description
 Медицинский сервис.
 
 GitHelper: https://docs.google.com/document/d/1kgVatgTiimp4UFBBBwFNNkFnE6hFWFgMGVcGmL_tFEk/edit
-
-Trello: https://trello.com/b/JjUfvdPC/medhelper
-
 
 ## Project setup
   Ruby 2.7.0
